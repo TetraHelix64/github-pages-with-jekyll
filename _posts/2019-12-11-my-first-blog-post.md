@@ -1,3 +1,7 @@
+---
+title: "Welcome to my blog"
+date: 2019-12-11
+---
 Quote from Simon Sinek:
 >To live our lives with an infinite mindset means that we are driven to advance a Cause bigger than ourselves. We see those who share our vision as partners in the Cause and we work to build trusting relationships with them so that we may advance the common good together. We are grateful for the success we enjoy. And as we advance we work to help those around us rise. To live our lives with an infinite mindset is to live a life of service.
 >
